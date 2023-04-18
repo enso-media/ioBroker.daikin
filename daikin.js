@@ -217,7 +217,8 @@ const fieldDef = {
             'unit': '°C'
         },
         'error': {'role': 'value', 'read': true, 'write': false, 'type': 'number'},
-        'cmpfreq': {'role': 'value', 'read': true, 'write': false, 'type': 'number'}
+        'cmpfreq': {'role': 'value', 'read': true, 'write': false, 'type': 'number'},
+        'mompow': {'role': 'value', 'read': true, 'write': false, 'type': 'number'}
     }
 };
 
