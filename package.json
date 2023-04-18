@@ -16,7 +16,7 @@
     "url": "https://github.com/Apollon77/ioBroker.daikin"
   },
   "dependencies": {
-    "daikin-controller": "^2.1.0",
+    "daikin-controller": "enso-media/daikin-controller",
     "@iobroker/adapter-core": "^2.6.0"
   },
   "devDependencies": {
